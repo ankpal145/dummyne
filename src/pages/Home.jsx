@@ -104,7 +104,7 @@ function Home() {
                 backgroudGradient={"grad"}
             />
         </div>
-        <div className=' mx-auto box-content w-full max-w-maxContentTab px- py-12 lg:max-w-maxContent'>
+        {/* <div className=' mx-auto box-content w-full max-w-maxContentTab px- py-12 lg:max-w-maxContent'>
         <h2 className='section_heading mb-6 md:text-3xl text-xl'>
            Most Popular Courses
         </h2>
@@ -115,7 +115,7 @@ function Home() {
            Students are learning
         </h2>
         <CourseSlider Courses={CatalogPageData?.differentCourses}/>
-      </div>       
+      </div>        */}
 
 
                 {/* Code Section 2 */}
